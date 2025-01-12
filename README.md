@@ -1,2 +1,5 @@
-# documentation
-This repo contains all documentation for programming and hardware. Most of this is in the Wiki.
+# Documentation
+
+This repo contains documentation for programming and hardware:
+
+* [Main page](https://github.com/FRCteam1719theUmbrellaCorporation/documentation/wiki)
