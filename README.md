@@ -22,7 +22,8 @@ For more info go to https://docs.yagsl.com/configuring-yagsl/when-to-invert
 
 These first of each of the four values were then inputed into the wheel jsons as the absoluteEncoderOffset
 
-
+To create new jsons go to https://docs.yagsl.com/bringing-up-swerve/creating-your-first-configuration
 
 In order to commit and then push, you most name the commit
+
 * [Main page](https://github.com/FRCteam1719theUmbrellaCorporation/documentation/wiki)
