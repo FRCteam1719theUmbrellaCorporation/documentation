@@ -30,7 +30,8 @@ In order to commit and then push, you most name the commit
 
 
 
-Perry Sahnow on Jan 16 2025 changed a line in tuner constants for CTRE Swerve: public static final CANBus kCANBus = new CANBus
+Perry Sahnow on Jan 16 2025 changed a line in tuner constants for CTRE Swerve: public static final CANBus kCANBus = new CANBus...
+
 Perry changed the type canbus from null to "Drivetrain"
 
 * [Main page](https://github.com/FRCteam1719theUmbrellaCorporation/documentation/wiki)
