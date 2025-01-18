@@ -5,4 +5,4 @@ located on the following page.
 
 * [Main page](https://github.com/FRCteam1719theUmbrellaCorporation/documentation/wiki)
 
-PS If you left notes directly on this page, I moved them into the Wiki above.
+PS If you left notes directly on this page, I moved them into the Wiki above under "2025 notes".
